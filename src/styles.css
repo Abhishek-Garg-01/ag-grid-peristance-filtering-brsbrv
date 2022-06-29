@@ -1,0 +1,8 @@
+/* Add application styles & imports to this file! */
+@import 'node_modules/ag-grid-community/dist/styles/ag-grid.css';
+@import 'node_modules/ag-grid-community/dist/styles/ag-theme-alpine.css';
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
